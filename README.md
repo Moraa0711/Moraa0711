@@ -1,4 +1,4 @@
-# Juan Esteban Mora
+# Juan Camilo Morales
 
 Estudiante de Ingeniería de Sistemas en la Universidad de Antioquia. Mi enfoque profesional está orientado hacia la Arquitectura de Software, la Ingeniería de Datos y el desarrollo de soluciones basadas en Inteligencia Artificial.
 
