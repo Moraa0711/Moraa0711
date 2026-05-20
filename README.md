@@ -12,14 +12,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad de Antioquia. Mi enfoque
 
 ---
 
-### Estadísticas de Actividad
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moraa0711&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Actividad" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moraa0711&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más utilizados" height="150" />
-</p>
-
----
 
 ### Información de Contacto
 
