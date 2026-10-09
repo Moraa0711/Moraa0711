@@ -16,6 +16,6 @@ Estudiante de Ingeniería de Sistemas en la Universidad de Antioquia. Mi enfoque
 
 ### Información de Contacto
 
-- **LinkedIn:** [linkedin.com/in/juanmoraalezz](https://www.linkedin.com/in/juanmoraalezz)
+- **LinkedIn:** www.linkedin.com/in/juanmoraleezz
 - **Correo Electrónico:** moralesjuan0711@gmail.com
 - **Teléfono:** +57 3235813812
